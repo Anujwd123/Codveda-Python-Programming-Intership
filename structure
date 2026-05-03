@@ -1,0 +1,53 @@
+codveda-python-internship/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── level-1-basic/
+│   ├── calculator/
+│   │   ├── calculator.py
+│   │   └── README.md
+│   │
+│   ├── number-guessing-game/
+│   │   ├── game.py
+│   │   └── README.md
+│   │
+│   └── word-counter/
+│       ├── word_counter.py
+│       ├── sample.txt
+│       └── README.md
+│
+├── level-2-intermediate/
+│   ├── todo-app/
+│   │   ├── todo.py
+│   │   ├── tasks.json
+│   │   └── README.md
+│   │
+│   ├── web-scraper/
+│   │   ├── scraper.py
+│   │   ├── news.csv
+│   │   └── README.md
+│   │
+│   └── api-integration/
+│       ├── weather_api.py
+│       └── README.md
+│
+├── level-3-advanced/
+│   ├── django-app/
+│   │   ├── manage.py
+│   │   ├── project/
+│   │   ├── app/
+│   │   └── README.md
+│   │
+│   ├── encryption-tool/
+│   │   ├── encrypt.py
+│   │   ├── decrypt.py
+│   │   └── README.md
+│   │
+│   └── n-queens/
+│       ├── nqueens.py
+│       └── README.md
+│
+└── demo-video/
+    └── project_demo_link.txt
